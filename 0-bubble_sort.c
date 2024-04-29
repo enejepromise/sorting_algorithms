@@ -1,5 +1,9 @@
 #include "sort.h"
-
+/**
+ * bubble_sort - This is used to swap two integers in an array of elements.
+ * @array: This is an array of integers to be sort
+ * @size: Size or lenght of the array
+ */
 void bubble_sort(int *array, size_t size)
 {
   size_t index = 0, index_of_swap = 0;
