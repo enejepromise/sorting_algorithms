@@ -21,3 +21,7 @@
 ##### Don’t forget to push your header file
 ##### All your header files should be include guarded
 ##### A list/array does not need to be sorted if its size is less than 2.
+
+
+#### Learning Outcomes:
+##### 
