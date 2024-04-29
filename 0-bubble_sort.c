@@ -14,7 +14,7 @@ void bubble_sort(int *array, size_t size)
 	      temp = array[index_of_swap];
 	      array[index_of_swap] = array[index_of_swap + 1];
 	      array[index_of_swap + 1] = temp;
-	      /**Code goes here**/
+	      print_array(array, size);
 	    }
 	}
     }
